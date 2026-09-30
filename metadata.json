@@ -1,0 +1,6 @@
+{
+  "name": "AI Gallery",
+  "description": "A modern, premium AI image-sharing platform featuring a clean Pinterest-inspired masonry layout, multi-language support, real uploads, and full-screen visual discovery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
